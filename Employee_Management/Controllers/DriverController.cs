@@ -61,6 +61,7 @@ public class DriverController : ControllerBase
 
         return updateDriver.IsAcknowledged && updateDriver.ModifiedCount > 0;
     }
+
     [HttpDelete("{id}")]
     [ProducesResponseType(typeof(Driver), (int)HttpStatusCode.OK)]
     public async Task<bool> DeleteDriver(string id)
