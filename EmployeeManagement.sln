@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee_Management", "Employee_Management\Employee_Management.csproj", "{C8A903C4-ED07-4632-BF63-4D11CEA4BBAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagementGrpc", "EmployeeManagementGrpc\EmployeeManagementGrpc.csproj", "{DCE4453F-6CE4-47E2-BB78-DDEEFEB332B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8A903C4-ED07-4632-BF63-4D11CEA4BBAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8A903C4-ED07-4632-BF63-4D11CEA4BBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8A903C4-ED07-4632-BF63-4D11CEA4BBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8A903C4-ED07-4632-BF63-4D11CEA4BBAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCE4453F-6CE4-47E2-BB78-DDEEFEB332B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE4453F-6CE4-47E2-BB78-DDEEFEB332B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE4453F-6CE4-47E2-BB78-DDEEFEB332B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE4453F-6CE4-47E2-BB78-DDEEFEB332B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
