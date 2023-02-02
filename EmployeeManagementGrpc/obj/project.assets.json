@@ -723,11 +723,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\Employee_Management\\EmployeeManagementGrpc\\EmployeeManagementGrpc.csproj",
+      "projectUniqueName": "C:\\git\\EmployeeManagement\\Employee_Management\\EmployeeManagementGrpc\\EmployeeManagementGrpc.csproj",
       "projectName": "EmployeeManagementGrpc",
-      "projectPath": "C:\\git\\Employee_Management\\EmployeeManagementGrpc\\EmployeeManagementGrpc.csproj",
+      "projectPath": "C:\\git\\EmployeeManagement\\Employee_Management\\EmployeeManagementGrpc\\EmployeeManagementGrpc.csproj",
       "packagesPath": "C:\\Users\\Павел Пальчак\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\Employee_Management\\EmployeeManagementGrpc\\obj\\",
+      "outputPath": "C:\\git\\EmployeeManagement\\Employee_Management\\EmployeeManagementGrpc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Павел Пальчак\\AppData\\Roaming\\NuGet\\NuGet.Config",

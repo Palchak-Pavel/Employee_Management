@@ -1,2 +1,4 @@
 C:\git\Employee_Management\EmployeeManagementGrpc\obj\Debug\net6.0\EmployeeManagementGrpc.csproj.AssemblyReference.cache
 C:\git\Employee_Management\EmployeeManagementGrpc\obj\Debug\net6.0\EmployeeManagementGrpc.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\EmployeeManagement\Employee_Management\EmployeeManagementGrpc\obj\Debug\net6.0\EmployeeManagementGrpc.csproj.AssemblyReference.cache
+C:\git\EmployeeManagement\Employee_Management\EmployeeManagementGrpc\obj\Debug\net6.0\EmployeeManagementGrpc.GeneratedMSBuildEditorConfig.editorconfig

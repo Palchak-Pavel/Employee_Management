@@ -1603,11 +1603,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\Employee_Management\\Employee_Management\\Employee_Management.csproj",
+      "projectUniqueName": "C:\\git\\EmployeeManagement\\Employee_Management\\Employee_Management\\Employee_Management.csproj",
       "projectName": "Employee_Management",
-      "projectPath": "C:\\git\\Employee_Management\\Employee_Management\\Employee_Management.csproj",
+      "projectPath": "C:\\git\\EmployeeManagement\\Employee_Management\\Employee_Management\\Employee_Management.csproj",
       "packagesPath": "C:\\Users\\Павел Пальчак\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\Employee_Management\\Employee_Management\\obj\\",
+      "outputPath": "C:\\git\\EmployeeManagement\\Employee_Management\\Employee_Management\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Павел Пальчак\\AppData\\Roaming\\NuGet\\NuGet.Config",

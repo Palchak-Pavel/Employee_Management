@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lBOaTvR+sn4bw873eIMOiCYGUoQyJDKaH2dw1AzR4hE2dS6iHxsLQJUeNkK/3v7gMpEy0ccUnLmFhyljbIwPlA==",
+  "dgSpecHash": "RXUFucAnQjwV+ERio9/q7Amw6ECnvysGEnaBEZ1TiQimEy5YSEbu85Y8fmGzBdS7IIasYeOSmEZq3YBZSIf9OA==",
   "success": true,
-  "projectFilePath": "C:\\git\\Employee_Management\\EmployeeManagementGrpc\\EmployeeManagementGrpc.csproj",
+  "projectFilePath": "C:\\git\\EmployeeManagement\\Employee_Management\\EmployeeManagementGrpc\\EmployeeManagementGrpc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Павел Пальчак\\.nuget\\packages\\google.protobuf\\3.18.0\\google.protobuf.3.18.0.nupkg.sha512",
     "C:\\Users\\Павел Пальчак\\.nuget\\packages\\grpc.aspnetcore\\2.40.0\\grpc.aspnetcore.2.40.0.nupkg.sha512",
