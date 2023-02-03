@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rmnML08sCdDDJ7RkYPVD9fF4NMqW1jHjM963S8ML5F3z2b6sV3kjrEqHBXn1iltvvL8q4z0xD2CW05gdp+Wb9g==",
+  "dgSpecHash": "jI1hy+KawywpOeAaFfe2Q6dgWlF9yWoc7vTE2EOWM2QeJBf8xS+cyUvcgaGGIH53xQeMZISU0exQw2Am0uy1Dw==",
   "success": true,
   "projectFilePath": "C:\\git\\EmployeeManagement\\Employee_Management\\Employee_Management\\Employee_Management.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,7 @@
     "C:\\Users\\Павел Пальчак\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\Павел Пальчак\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\Павел Пальчак\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Павел Пальчак\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\Павел Пальчак\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Павел Пальчак\\.nuget\\packages\\mongodb.bson\\2.18.0\\mongodb.bson.2.18.0.nupkg.sha512",
     "C:\\Users\\Павел Пальчак\\.nuget\\packages\\mongodb.driver\\2.18.0\\mongodb.driver.2.18.0.nupkg.sha512",

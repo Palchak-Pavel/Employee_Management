@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "RXUFucAnQjwV+ERio9/q7Amw6ECnvysGEnaBEZ1TiQimEy5YSEbu85Y8fmGzBdS7IIasYeOSmEZq3YBZSIf9OA==",
+  "dgSpecHash": "hLGWFuIWGInb5vTU1/sFX/4BoEhXKGULxwmXlmz2RdGmFZbsmukc/eOyca2t2UYxFeBCHTvgwpI+z4y1IFQX7A==",
   "success": true,
   "projectFilePath": "C:\\git\\EmployeeManagement\\Employee_Management\\EmployeeManagementGrpc\\EmployeeManagementGrpc.csproj",
   "expectedPackageFiles": [
@@ -23,6 +23,7 @@
     "C:\\Users\\Павел Пальчак\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
     "C:\\Users\\Павел Пальчак\\.nuget\\packages\\microsoft.extensions.options\\3.0.3\\microsoft.extensions.options.3.0.3.nupkg.sha512",
     "C:\\Users\\Павел Пальчак\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.3\\microsoft.extensions.primitives.3.0.3.nupkg.sha512",
+    "C:\\Users\\Павел Пальчак\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\Павел Пальчак\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
   ],
   "logs": []
