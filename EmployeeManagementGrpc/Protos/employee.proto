@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option csharp_namespace = "EmployeeManagementGrpc.Protos";
+
+service Employee{
+	 rpc GetId (ReplacementExistRequest) returns (ReplacementExistReply);
+}
+
+message ReplacementExistRequest {
+	
+	string employeeId = 1;
+	string assistantId = 2;
+}
+
+message ReplacementExistReply {
+	bool response = 1;
+}

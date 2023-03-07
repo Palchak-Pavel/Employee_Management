@@ -10,7 +10,7 @@
         "projectUniqueName": "C:\\git\\EmployeeManagement\\Employee_Management\\Employee_Management\\Employee_Management.csproj",
         "projectName": "Employee_Management",
         "projectPath": "C:\\git\\EmployeeManagement\\Employee_Management\\Employee_Management\\Employee_Management.csproj",
-        "packagesPath": "C:\\Users\\Павел Пальчак\\.nuget\\packages\\",
+        "packagesPath": "C:\\nuget",
         "outputPath": "C:\\git\\EmployeeManagement\\Employee_Management\\Employee_Management\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
