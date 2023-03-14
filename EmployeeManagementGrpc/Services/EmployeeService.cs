@@ -19,23 +19,27 @@ namespace EmployeeManagementGrpc.Services
 
         [HttpGet("{id}")]
         [ProducesResponseType(typeof(IEnumerable<SalesEmployee>), (int)HttpStatusCode.OK)]
-        public override Task<SalesEmployee> GetId(ReplacementExistRequest request, ServerCallContext context, string id)
+        public override async Task<SalesEmployee> GetId(ReplacementExistRequest request, ServerCallContext context, string id)
         {
-           
-                var salesEmployeeId =  _context.SalesEmployees.Find(x => x.Id == id).FirstOrDefaultAsync();
-                if (salesEmployeeId == null) return NotFound();
 
-                return Ok(salesEmployeeId);
-            
-            // var salesEmployeeId =  _context.SalesEmployees.Find(x => x.Id == id).FirstOrDefaultAsync();
-            // ReplacementExistReply output = new ReplacementExistReply();
+            //var salesEmployeeId = _context.SalesEmployees.Find(x => x.Id == id).FirstOrDefaultAsync();
+            //if (salesEmployeeId == null)
+            //    return NotFound();
 
-            // if (request.AssistantId == 1)
-            //  {
-            //    output.Response = true;
-            // }
-            //  return Task.FromResult(output);
+            //return Task.FromResult(salesEmployeeId);
 
+            //return Ok(salesEmployeeId);
+            //ReplacementExistRequest response = new ReplacementExistRequest();
+
+            var salesEmployeeId = _context.SalesEmployees.Find(x => x.Id == id).FirstOrDefaultAsync();
+
+            var replacementExistRequest = new ReplacementExistRequest()
+            {
+                employeeId = salesEmployeeId.Id,
+            };
+
+            return Task.FromResult(salesEmployeeId);
+            //response.Items.AddRange(salesEmployeeId.ToArray());
 
         }
     }
